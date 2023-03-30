@@ -125,14 +125,58 @@
 
     .section_put {
         display: block;
+        margin-bottom: 15px;
     }
 
     .one_img_box_photo {
         width: 320px;
         height: 300px;
     }
+
     .four_img_box img {
         width: 320px;
         height: 300px;
+    }
+
+    .shop_boxes {
+        margin-bottom: 15px;
+        justify-content: space-between;
+    }
+
+    .shop_contact {
+        justify-content: space-between;
+    }
+
+    .palette_img {
+        width: 100%;
+        max-width: 500px;
+        margin-left: 0;
+        margin-bottom: 10px;
+    }
+
+    .footer_top {
+        display: block;
+    }
+
+    .sign_need {
+        padding-top: 8px;
+    }
+
+    .sign_button {
+        margin-bottom: 14px;
+    }
+
+    .trustpilot a {
+        margin-right: 2px;
+    }
+
+    .language h1 {
+        margin-left: 0;
+        font-size: 7px;
+        line-height: 0;
+    }
+
+    footer {
+        margin-bottom: 15px;
     }
 }
